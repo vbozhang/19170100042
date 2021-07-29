@@ -4,9 +4,9 @@
 ## CD4511译码器
 用于驱动共阴极 LED （数码管）显示器的 BCD 码-七段码译码器
 <img src="https://i.loli.net/2021/07/17/49AlbzxrX7vN2tI.jpg" alt="CD4511结构.jpg" style="zoom:50%;" />
-<img src="https://i.loli.net/2021/07/17/ORwkBCDx9bayoZz.jpg" alt="CD4511真值表.jpg" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/07/17/ORwkBCDx9bayoZz.jpg" alt="CD4511真值表.jpg" style="zoom:120%;" />
 
-## C语言位运算
+## C语言位运算 
 | **运算符**   | &      | \|     | ^        | ~    | <<   | >>   |
 | -------- | ------ | ------ | -------- | ---- | ---- | ---- |
 | **说明** | 按位与 | 按位或 | 按位异或 | 取反 | 左移 | 右移 |
